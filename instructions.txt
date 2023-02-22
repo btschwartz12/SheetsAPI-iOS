@@ -1,0 +1,9 @@
+http://gsx2json.com/
+
+This creates a nice json 
+
+To do so,
+
+1. Publish spreadsheet to web
+2. Get sheet ID
+3. Look up this : http://gsx2json.com/api?id=PASTE_ID_HERE&columns=false 
